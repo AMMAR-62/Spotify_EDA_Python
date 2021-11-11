@@ -1,0 +1,19 @@
+The datasets we'll be using are:
+
+ - tracks:
+    - id - unique id.
+    - name - name of the song.
+    - popularity - range 0-100.
+    - milliseconds - 
+    - id of artists - creator of the song.
+    - danceability - ranges 0-1
+    - energy - 0.0-1.1, measure of activity.
+    - pitch
+    - loudness - -60-0
+    - mode - major, minor.
+    - speechiness - more expressive speech tends to 1.
+    - acousticness
+    - instrumentalness.
+    - liveness.
+    - balance - 0.0-1.0 - musical positivness.
+    - tempo, time signature.
